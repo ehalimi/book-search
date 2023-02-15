@@ -9,7 +9,7 @@ export const GET_ME = gql`
         savedBooks {
             authors
             description
-            bookId
+            foodId
             image
             link
             title
