@@ -6,7 +6,7 @@
 
 ## Deployed Link
 
-https://murmuring-mesa-87456.herokuapp.com/
+Live application not available due to technical issues with Heroku. Working on deploying to another platform.
 
 ## Screenshot
 
